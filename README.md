@@ -2,3 +2,4 @@
 This is to test the Lab to hub migration
 test1234-enp -status update
 status
+Update my Rally status 
